@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background: white;
+}
+
+
+.how-section1{
+    margin-top:-15%;
+    padding: 10%;
+}
+.how-section1 h4{
+    color: #ffa500;
+    font-weight: bold;
+    font-size: 30px;
+}
+.how-section1 .subheading{
+    color: #3931af;
+    font-size: 20px;
+}
+.how-section1 .row
+{
+    margin-top: 10%;
+}
+.how-img 
+{
+    text-align: center;
+}
+.how-img img{
+    width: 90%;
+    box-shadow: 0 0 20px ; 
+}
+.how-section1 p
+{
+    color: black;
+    text-transform: capitalize;
+    animation-delay: 1s;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    
+}
+.how-section1 button
+{
+    display: block;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+    
+}
